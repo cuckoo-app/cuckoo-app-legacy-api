@@ -1,0 +1,8 @@
+{
+  "body": "{\"command\": \"python count.py 2\",\"dateCreated\": \"2019-01-25T11:24:05.008526\",\"dateModified\": \"2019-01-25T11:24:06.041997\",\"jobStatus\": \"running\",\"machine\": \"My Macbook Pro\",\"runtime\": \"00:00:01\",\"stdout\": \"test.txt\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

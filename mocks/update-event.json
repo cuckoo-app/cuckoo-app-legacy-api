@@ -1,0 +1,11 @@
+{
+  "body": "{\"jobStatus\":\"success\",\"dateModified\":\"2019-01-25T11:24:07.046588\", \"runtime\":\"00:00:02\"}",
+  "pathParameters": {
+    "id": "b85f2590-2095-11e9-985e-21417f46af5e"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
